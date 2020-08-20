@@ -1,9 +1,13 @@
- 
+
 body {
     font-family: 'Century Gothic', sans-serif;
     font-size: 14px;
     color: #000;
 }
+ul {
+    text-align: center;
+    list-style-position: inside;
+} 
 a:active {
     outline: 0;
 }
